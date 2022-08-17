@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Talkerr</string>
+    <string name="chat_app_will_send_otp_to_your_entered_number">Chat App Will Send OTP To Your Entered Number</string>
+</resources>

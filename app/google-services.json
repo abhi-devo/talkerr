@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "758671427786",
+    "project_id": "talkerr-1571d",
+    "storage_bucket": "talkerr-1571d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758671427786:android:14baeb1dddf0b06febcc33",
+        "android_client_info": {
+          "package_name": "com.abhi_devo.talkerr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758671427786-aochs4usc912gged8ejml0c9cdvj03dv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhi_devo.talkerr",
+            "certificate_hash": "da039caea8c20d60afd41e1b8555fa86d3fbb87c"
+          }
+        },
+        {
+          "client_id": "758671427786-p7ke9vsekbsd7ffnvvilsg8dhd0buri6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwzJr4Xg4JSoqDpSHt2--IM7jBy_wb1sM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758671427786-p7ke9vsekbsd7ffnvvilsg8dhd0buri6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
